@@ -8,14 +8,10 @@ package javtest;
  *
  * @author admin
  */
-public class Javtest {
-
-    /**
-     * @param args the command line arguments
-     */
+public class JavaGUInhom18 {
+    //dinh duc tai
     public static void main(String[] args) {
-        System.out.println("hellooooo");
-        System.out.println("aasdasasasda");
+        
     }
     
 }
